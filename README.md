@@ -5,6 +5,8 @@
 
 Ein automatischer Feuermelder mit dem ESP32, der Rauch & Gaskonzentration misst und optische & akustische Alarme auslöst.
 
+## Screenshot
+![Alt text](Pic1.png "Optional title")
 
 ## ✨ Features
 - 🔥 Analoger Flammensensor (Infrarot)
