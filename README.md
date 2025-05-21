@@ -3,7 +3,7 @@
 
 ![npm bundle size (version)](https://img.shields.io/badge/version-0.0.1-darkblue)  ![npm bundle size (version)](https://img.shields.io/badge/language-c++-red)  ![npm bundle size (version)](https://img.shields.io/badge/framework-arduino-lightblue) 
 
-Ein automatischer Feuermelder mit dem ESP32, der Rauch/Gaskonzentration misst und optische/akustische Alarme auslöst.
+Ein automatischer Feuermelder mit dem ESP32, der Rauch & Gaskonzentration misst und optische & akustische Alarme auslöst.
 
 
 ## ✨ Features
